@@ -85,7 +85,7 @@ cover_image                               :                     # Replace with a
 cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
