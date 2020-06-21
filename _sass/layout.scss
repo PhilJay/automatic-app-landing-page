@@ -42,6 +42,7 @@
 	grid-template-rows: 115px 876px auto auto;
 	grid-column-gap: 30px;
 	grid-template-areas: 
+		"h h h h h h h h h h h h"
 		"p p p p p i i i i i i i"
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
@@ -66,6 +67,7 @@
 		grid-template-columns: 1;
 		grid-template-rows: 115px auto auto auto auto;
 		grid-template-areas: 
+			"h h h h h h h h h h h h"
 			"i i i i i i i i i i i i"
 			"p p p p p p p p p p p p"
 			"c c c c c c c c c c c c"
@@ -379,7 +381,7 @@ nav > ul li a:active {
 	background-image: url($device-color);
 	background-size: 400px auto;
 	background-repeat: no-repeat;
-	margin-top: 70px;
+	margin-top: 0px;
 }
 
 .iphoneScreen {
